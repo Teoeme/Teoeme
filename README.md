@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mateo Mancinelli</h1>
 <h3 align="center">A passionate web 2 and web 3 developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Starknet Re{ignite} Hackathon](https://hackathon.starknet.org/)
+- 🔭 I’m currently working on [Glee.pet ecommerce architecture](https://glee.pet/)
 
-- 🌱 I’m currently learning **Cairo language**
+- 🌱 I’m currently learning **Docker CI/CD workflow**
 
 - 👨‍💻 All of my projects are available at [https://alteworkshop.com](https://alteworkshop.com)
 
