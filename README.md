@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teoeme&label=Profile%20views&color=0e75b6&style=flat" alt="teoeme" /> </p>
 
-- 🔭 I’m currently working on [Glee.pet Ecommerce architecture](https://glee.pet)
+- 🔭 I’m currently working as fullstack developer team member in [Selene Soluciones](https://selenesoluciones.com/)
 
-- 🌱 I’m currently learning **Docker CI/CD workflow**
+- 🌱 I’m currently learning **Vitest suite for TDD**
 
 - 👨‍💻 All of my projects are available at [https://alteworkshop.com](https://alteworkshop.com)
 
